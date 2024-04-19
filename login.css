@@ -1,12 +1,16 @@
-.caixa{
-    border: solid 3px black;
-    width: 675px;
-    height: 750px;
+.Caixa{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: black;
     
 }
-.login{
-    border: solid 1px black;
-    width: 500px;
-    height: 600px;
-    
+.Login{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    gap: 30px;
 }
