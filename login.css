@@ -1,8 +1,12 @@
+.Borda{
+    justify-content: center;
+    display: flex;
+}
 .Caixa{
     display: flex;
     justify-content: center;
-    width: 500px;
-    height: 500px;
+    width: 829px;
+    height: 553px;
     background-color: black;
     
 }
