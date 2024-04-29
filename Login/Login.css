@@ -1,0 +1,50 @@
+.Borda{
+    justify-content: center;
+    display: flex;
+}
+.Caixa{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    background-color: black; 
+    margin: 250px; 
+    border-radius: 30px;  
+}
+.Login{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    gap: 30px;
+    position: relative;
+}
+
+.Heitor{
+    display: flex;
+    justify-content: center;
+    margin-top: -150px;
+    margin-left: 150px;
+}
+
+input{
+    width: 396px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    width: 40px;
+    gap: 55px;
+}
+
+.enviar{
+    width: 150px;
+    text-align: center;
+    color: coral;
+    background-color: grey;
+    margin-left: 125px;
+}
